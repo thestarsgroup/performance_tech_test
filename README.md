@@ -10,6 +10,7 @@ The challenge is to build a Performance Test framework that can be pointed at mu
 We realise that everyone has different levels of skills and experience when it comes to development, 
 and so if you do not have the time or knowledge to complete all tasks, that's okay, 
 we just want to see how you would approach the problem and get a feel for how your code.
+When you are testing the framework, please run your tests with no more than 5 virtual users/threads 
 
 
 ### Languages
