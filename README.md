@@ -51,4 +51,4 @@ Using our Live website https://www.pokerstarssports.uk/ to build a script that s
 1. Parameterisation of the above journey to target different Environment. 
     1. Assume there are two Environments - Live and Perf. 
     1. Design the framework for passing environment as a run time argument. 
-    1. Design the framework for passing a run time argument to add dynamism in load. for example number of Virtual Users or threads or throughput target
+    1. Design the framework for passing a run time argument to add dynamism in load. for example number of Virtual Users or threads or throughput target for a specific duration say 15 minutes or 30 minutes
